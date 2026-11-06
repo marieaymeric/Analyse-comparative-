@@ -1,0 +1,19 @@
+JOURNAL DE NETTOYAGE (16 remarques)
+========================================
+
+[Marché Lagune] référence ML-1000 en double dans le fichier, deuxième occurrence ignorée.
+[Marché Lagune] '  souris sans fil logitech m185 ' (ML-1105) : espaces superflus en début/fin de libellé, corrigés.
+[Marché Lagune] ML-1119 (ECRAN SAMSUNG 24") : prix non numérique ('Prix sur demande'), prix écarté du comparatif.
+[Marché Lagune] ML-1168 (MIXEUR MOULINEX 1.5L) : prix vide, prix écarté du comparatif.
+[Marché Lagune] référence ML-1147 en double dans le fichier, deuxième occurrence ignorée.
+[Baobab Shop] BB03433 (Galaxy A55 256GB - Samsung) : stock à 0, article en rupture.
+[Baobab Shop] BB16464 (Logitech M185 Wireless Mouse) : stock à 0, article en rupture.
+[Baobab Shop] BB27999 (Philips Steam Iron) : prix manquant (amount=null), article écarté du comparatif.
+[Baobab Shop] BB30124 (Hisense Air Conditioner 1.5HP) : stock à 0, article en rupture.
+[Comptoir Ivoire] CI214 (TV Samsung 43") : quantité en rayon à 0, article en rupture.
+[Comptoir Ivoire] CI216 (Clim LG 1CV) : prix catalogue stocké en texte ('279 300') plutôt qu'en nombre, corrigé.
+[Comptoir Ivoire] CI217 (Ventilo Binatone 16") : quantité en rayon à 0, article en rupture.
+[Marché Lagune] P04 (TECNO SPARK 20 - 128GB) : prix du jour 779,000 FCFA supérieur de 846% au prix moyen historique (82,375 FCFA) -> à vérifier, prix conservé tel quel.
+[Marché Lagune] ne propose pas les produits suivants : P18, P29.
+[Baobab Shop] ne propose pas les produits suivants : P08, P13, P21, P25.
+[Comptoir Ivoire] ne propose pas les produits suivants : P03, P05, P07, P10, P17, P18, P19, P30.

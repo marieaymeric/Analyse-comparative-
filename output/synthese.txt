@@ -1,0 +1,18 @@
+SYNTHÈSE DU COMPARATIF
+========================================
+Produits comparables (présents dans >= 2 enseignes) : 23
+
+Nombre de fois où chaque enseigne est la moins chère :
+  - Marché Lagune : 6
+  - Baobab Shop : 9
+  - Comptoir Ivoire : 8
+
+Écart moyen par rapport au prix le plus bas (en %) :
+  - Marché Lagune : 53.0%
+  - Baobab Shop : 4.7%
+  - Comptoir Ivoire : 2.8%
+
+Les 3 produits où il y a le plus à gagner à comparer :
+  - Tecno Spark 20 128 Go (P04) : écart de 704,000 FCFA (938.7%), moins cher chez Baobab Shop.
+  - HP 250 G9 Core i5 8 Go 512 Go (P11) : écart de 52,800 FCFA (14.9%), moins cher chez Baobab Shop.
+  - Apple iPhone 13 128 Go (P09) : écart de 26,500 FCFA (6.4%), moins cher chez Baobab Shop.
