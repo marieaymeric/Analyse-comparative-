@@ -45,8 +45,6 @@ def construire_comparatif(catalogue, enseignes_donnees):
 
 
 def exporter_comparatif_csv(lignes_comparatif, chemin):
-    """Écrit le comparatif dans un fichier CSV (demande explicite de
-    l'énoncé, étape 4)."""
     colonnes = [
         "produit_id", "nom", "categorie",
         "prix_marche_lagune", "prix_baobab_shop", "prix_comptoir_ivoire",
