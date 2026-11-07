@@ -10,7 +10,7 @@ __pycache__/
 *$py.class
 *.pyo
 
-# Fichiers générés par le programme (étapes 4 à 8)
+# Fichiers générés par le programme 
 output/
 
 # Fichiers temporaires système / éditeurs
