@@ -4,14 +4,14 @@ Taille de l'historique : 20876 lignes
 Nombre de recherches effectuées : 90 (3 enseignes x 30 produits)
 
 Recherche linéaire (on reparcourt les 20876 lignes à chaque recherche, complexité O(n) par recherche) :
-  -> 80.7 ms pour les 90 recherches
+  -> 115.5 ms pour les 90 recherches
 
 Recherche indexée (dictionnaire {(enseigne, produit_id): [...]} construit une seule fois, complexité O(n) une fois puis O(1) en moyenne par recherche) :
-  -> 3.9 ms pour construire l'index
+  -> 6.0 ms pour construire l'index
   -> 0.0 ms pour les 90 recherches
-  -> 3.9 ms au total (construction + recherches)
+  -> 6.1 ms au total (construction + recherches)
 
-Gain observé : environ 20.6x plus rapide avec l'index.
+Gain observé : environ 19.0x plus rapide avec l'index.
 
 Explication des choix de structures de données :
 - L'historique est chargé une seule fois comme une simple liste de tuples (date, source, produit_id, prix) : il n'y a pas de raison de le complexifier au chargement, on ne sait pas encore comment il sera consulté.

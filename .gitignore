@@ -1,0 +1,25 @@
+# Environnements virtuels
+.venv/
+venv/
+env/
+ENV/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Fichiers générés par le programme (étapes 4 à 8)
+output/
+
+# Fichiers temporaires système / éditeurs
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Logs
+*.log
